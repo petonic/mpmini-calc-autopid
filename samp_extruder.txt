@@ -1,0 +1,171 @@
+Recv: ok N3192 P15 B15 T:248.4 /240.0 B:86.3 /0.0 T0:248.4 /240.0 @:0 B@:0
+Send: N3193 M303 S240 C15*57
+Recv: PID Autotune start
+[...]
+Recv: Cycle: #1 done.
+[...]
+Recv:  bias: 84 d: 84 min: 237.19 max: 245.70
+Recv: Cycle: #2 done.
+[...]
+Recv:  bias: 91 d: 91 min: 236.87 max: 242.34
+Recv: Cycle: #3 done.
+[...]
+Recv:  bias: 87 d: 87 min: 238.06 max: 242.03
+Recv:  Ku: 55.82 Tu: 15.52
+Recv:  Classic PID
+Recv:  Kp: 33.49
+Recv:  Ki: 0.04
+Recv:  Kd: 64.96
+Recv:  Some overshoot
+Recv:  Kp: 18.42
+Recv:  Ki: 0.01
+Recv:  Kd: 95.27
+Recv: Cycle: #4 done.
+[...]
+Recv:  bias: 87 d: 87 min: 238.87 max: 241.09
+Recv:  Ku: 99.85 Tu: 10.32
+Recv:  Classic PID
+Recv:  Kp: 59.91
+Recv:  Ki: 0.12
+Recv:  Kd: 77.31
+Recv:  Some overshoot
+Recv:  Kp: 32.95
+Recv:  Ki: 0.03
+Recv:  Kd: 113.38
+Recv: Cycle: #5 done.
+[...]
+Recv:  bias: 70 d: 70 min: 239.06 max: 241.80
+Recv:  Ku: 65.19 Tu: 12.54
+Recv:  Classic PID
+Recv:  Kp: 39.11
+Recv:  Ki: 0.06
+Recv:  Kd: 61.30
+Recv:  Some overshoot
+Recv:  Kp: 21.51
+Recv:  Ki: 0.02
+Recv:  Kd: 89.91
+Recv: Cycle: #6 done.
+[...]
+Recv:  bias: 90 d: 90 min: 238.00 max: 241.17
+Recv:  Ku: 72.25 Tu: 14.48
+Recv:  Classic PID
+Recv:  Kp: 43.35
+Recv:  Ki: 0.06
+Recv:  Kd: 78.45
+Recv:  Some overshoot
+Recv:  Kp: 23.84
+Recv:  Ki: 0.02
+Recv:  Kd: 115.06
+Recv: Cycle: #7 done.
+[...]
+Recv:  bias: 65 d: 65 min: 239.00 max: 242.27
+Recv:  Ku: 50.69 Tu: 13.89
+Recv:  Classic PID
+Recv:  Kp: 30.41
+Recv:  Ki: 0.04
+Recv:  Kd: 52.80
+Recv:  Some overshoot
+Recv:  Kp: 16.73
+Recv:  Ki: 0.01
+Recv:  Kd: 77.44
+Recv: Cycle: #8 done.
+[...]
+Recv:  bias: 87 d: 87 min: 237.56 max: 241.48
+Recv:  Ku: 56.49 Tu: 17.37
+Recv:  Classic PID
+Recv:  Kp: 33.89
+Recv:  Ki: 0.04
+Recv:  Kd: 73.60
+Recv:  Some overshoot
+Recv:  Kp: 18.64
+Recv:  Ki: 0.01
+Recv:  Kd: 107.94
+Recv: Cycle: #9 done.
+[...]
+Recv:  bias: 86 d: 86 min: 238.75 max: 241.09
+Recv:  Ku: 93.44 Tu: 10.21
+Recv:  Classic PID
+Recv:  Kp: 56.06
+Recv:  Ki: 0.11
+Recv:  Kd: 71.57
+Recv:  Some overshoot
+Recv:  Kp: 30.83
+Recv:  Ki: 0.03
+Recv:  Kd: 104.97
+Recv: Cycle: #10 done.
+[...]
+Recv:  bias: 70 d: 70 min: 238.94 max: 241.72
+Recv:  Ku: 64.09 Tu: 12.41
+Recv:  Classic PID
+Recv:  Kp: 38.45
+Recv:  Ki: 0.06
+Recv:  Kd: 59.67
+Recv:  Some overshoot
+Recv:  Kp: 21.15
+Recv:  Ki: 0.02
+Recv:  Kd: 87.51
+Recv: Cycle: #11 done.
+[...]
+Recv:  bias: 88 d: 88 min: 238.12 max: 241.02
+Recv:  Ku: 77.52 Tu: 13.79
+Recv:  Classic PID
+Recv:  Kp: 46.51
+Recv:  Ki: 0.07
+Recv:  Kd: 80.20
+Recv:  Some overshoot
+Recv:  Kp: 25.58
+Recv:  Ki: 0.02
+Recv:  Kd: 117.63
+Recv: Cycle: #12 done.
+[...]
+Recv:  bias: 73 d: 73 min: 238.81 max: 241.64
+Recv:  Ku: 65.73 Tu: 12.13
+Recv:  Classic PID
+Recv:  Kp: 39.44
+Recv:  Ki: 0.07
+Recv:  Kd: 59.81
+Recv:  Some overshoot
+Recv:  Kp: 21.69
+Recv:  Ki: 0.02
+Recv:  Kd: 87.73
+Recv: Cycle: #13 done.
+[...]
+Recv:  bias: 87 d: 87 min: 238.25 max: 241.02
+Recv:  Ku: 80.11 Tu: 12.49
+Recv:  Classic PID
+Recv:  Kp: 48.06
+Recv:  Ki: 0.08
+Recv:  Kd: 75.06
+Recv:  Some overshoot
+Recv:  Kp: 26.44
+Recv:  Ki: 0.02
+Recv:  Kd: 110.08
+Recv: Cycle: #14 done.
+[...]
+Recv:  bias: 72 d: 72 min: 238.81 max: 241.80
+Recv:  Ku: 61.44 Tu: 12.20
+Recv:  Classic PID
+Recv:  Kp: 36.86
+Recv:  Ki: 0.06
+Recv:  Kd: 56.22
+Recv:  Some overshoot
+Recv:  Kp: 20.27
+Recv:  Ki: 0.02
+Recv:  Kd: 82.46
+Recv: Cycle: #15 done.
+[...]
+Recv:  bias: 85 d: 85 min: 238.19 max: 241.17
+Recv:  Ku: 72.53 Tu: 13.77
+Recv:  Classic PID
+Recv:  Kp: 43.52
+Recv:  Ki: 0.06
+Recv:  Kd: 74.92
+Recv:  Some overshoot
+Recv:  Kp: 23.93
+Recv:  Ki: 0.02
+Recv:  Kd: 109.88
+Recv: Cycle: #16 done.
+Recv: PID autotune finished.
+Recv: PID updated, use M500 to save in EEPROM.
+Recv: ok N3193 P15 B15
+p
