@@ -71,7 +71,7 @@ with open(arg) as infile:
 
     if line.startswith('Recv: PID autotune finished.'):
       inTune = False
-      break
+    
 
 if inTune:
   print('Error parsing input, still inTune state')
